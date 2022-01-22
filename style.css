@@ -1,0 +1,22 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: sans-serif;
+
+}
+
+.name_of_obj{
+    color: blue;
+    font-size: 11px;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border: 3px blue;
+}
+body{
+    background:linear-gradient(#EBE871,#EB595E)
+}
+button{
+    background-color:#42ACEB ;
+}
